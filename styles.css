@@ -1,0 +1,19 @@
+#container {
+  border: 2px solid red;
+
+  width: 400px;
+}
+.box {
+  border: 2px solid blue;
+
+  width: 20%;
+}
+#box1 {
+  position: fixed;
+  top: 200px;
+  left: 50px;
+}
+#box3:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
